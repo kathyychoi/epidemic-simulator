@@ -1,2 +1,2 @@
 # epidemic-simulator
-Epidemic simulator, final project for AP CS A
+Final project for AP Computer Science A
